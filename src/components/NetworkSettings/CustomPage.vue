@@ -166,7 +166,7 @@ export default class CustomPage extends Vue {
             this.isAjax = false
         } catch (e) {
             this.isAjax = false
-            this.err = 'Avalanche Network Not Found'
+            this.err = 'Muellners Network Not Found'
             return
         }
 

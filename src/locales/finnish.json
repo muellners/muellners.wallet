@@ -5,15 +5,15 @@
     "address": "Osoite",
     "add_pk": "Lisää Private Key",
     "home": {
-        "desc": "Avalanche-lompakko on yksinkertainen, turvallinen ja vastuuvapaa lompakko Avalanche-varojen säilyttämiseen.",
+        "desc": "Muellners-lompakko on yksinkertainen, turvallinen ja vastuuvapaa lompakko Muellners-varojen säilyttämiseen.",
         "access": {
             "title": "Tervetuloa Takaisin!",
-            "desc": "'Tarkastele' nykyistä Avalanche-lompakkoasi täällä.",
+            "desc": "'Tarkastele' nykyistä Muellners-lompakkoasi täällä.",
             "submit": "Tarkastele Lompakkoa"
         },
         "create": {
-            "title": "Uusi Avalanche Lompakossa?",
-            "desc": "'Luo' uusi lompakko lähettääksesi, vastaanottaaksesi ja vaihtaaksesi Avalanche-varojasi.",
+            "title": "Uusi Muellners Lompakossa?",
+            "desc": "'Luo' uusi lompakko lähettääksesi, vastaanottaaksesi ja vaihtaaksesi Muellners-varojasi.",
             "submit": "Luo Uusi Lompakko"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Luo uusi avainlauseke Avalanche-lompakon määrittämiseksi.",
+        "generate": "Luo uusi avainlauseke Muellners-lompakon määrittämiseksi.",
         "but_have": "Onko sinulla jo lompakko?",
         "submit": "Luo Avainlauseke",
         "cancel": "Peruuta",
         "mnemonic_title": "Tämä on avainlauseesi.",
-        "mnemonic_desc": "Käytä näitä 24 sanaa peräkkäin palauttaaksesi Avalanche-lompakon",
+        "mnemonic_desc": "Käytä näitä 24 sanaa peräkkäin palauttaaksesi Muellners-lompakon",
         "attention": "Huomio!",
-        "warning": "Säilytä tämä avainlause turvallisessa paikassa. Kuka tahansa salasanan tietävä henkilö voi käyttää Avalanche-lompakkoasi. Kadonneita avainlauseita ei ole mahdollista palauttaa.",
+        "warning": "Säilytä tämä avainlause turvallisessa paikassa. Kuka tahansa salasanan tietävä henkilö voi käyttää Muellners-lompakkoasi. Kadonneita avainlauseita ei ole mahdollista palauttaa.",
         "confirm": "Kirjoitin avainsanani turvalliseen paikkaan.",
         "regenerate": "Elvytä",
         "success_title": "Onneksi Olkoon!",
-        "success_desc": "On aika käyttää Avalanche-lompakkoasi.",
+        "success_desc": "On aika käyttää Muellners-lompakkoasi.",
         "success_submit": "Tarkastele Lompakkoa",
         "verify": "Vahvista",
         "verifytitle": "Vahvista Muistilauseke",
@@ -78,7 +78,7 @@
         "error_word": "Sanalle kirjoittamasi muistilauseke ei vastaa todellista ilmausta."
     },
     "top": {
-        "title1": "Johdettu Avalanche-lompakon osoite",
+        "title1": "Johdettu Muellners-lompakon osoite",
         "title2": "Saldo",
         "title3": "Aliverkko",
         "title4": "Verkko",
@@ -86,7 +86,7 @@
         "nftempty": "Et ole kerännyt yhtään ei-korvattavaa rahaketta.",
         "locked": "Lukittu",
         "info2": "Ostin kolikoita Token Sale -sivustolta. Missä AVAXINI on?",
-        "info2_desc": "Tämä lompakko on kytketty Avalanche Everest -testiverkkoon. Ostoksesi näkyvät lompakossa Avalanche Mainnetin käynnistämisen jälkeen.",
+        "info2_desc": "Tämä lompakko on kytketty Muellners Everest -testiverkkoon. Ostoksesi näkyvät lompakossa Muellners Mainnetin käynnistämisen jälkeen.",
         "hover1": "Näytä Osoitteen QR-koodi",
         "hover2": "Tulosta",
         "hover3": "Kopioi",
@@ -101,7 +101,7 @@
             "collectibles": "Keräilyesineet"
         },
         "address": {
-            "derived": "Johdettu Avalanche-lompakon osoite",
+            "derived": "Johdettu Muellners-lompakon osoite",
             "desc": "Tämä on osoitteesi varojen vastaanottamiseksi. Osoitteesi muuttuu jokaisen talletuksen jälkeen."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Sinulla on oltava vähintään {0} AVAXIA P-ketjussa, jotta voit tulla delegoijaksi.",
         "validate_card": {
             "title": "Vahvista",
-            "desc": "Sinulla on Avalanche-node, johon haluat panostaa.",
+            "desc": "Sinulla on Muellners-node, johon haluat panostaa.",
             "submit": "Lisää Vahvistaja"
         },
         "delegate_card": {
             "title": "Delegoi",
-            "desc": "Et omista Avalanche-noodia, mutta haluat asettaa panoksen toisella noodilla.",
+            "desc": "Et omista Muellners-noodia, mutta haluat asettaa panoksen toisella noodilla.",
             "submit": "Lisää Delegoija"
         },
         "transfer_card": {

@@ -27,7 +27,7 @@ export type WalletType = AvaHdWallet | LedgerWallet | SingletonWallet
 export interface ILedgerAppConfig {
     version: string
     commit: string
-    name: 'Avalanche'
+    name: 'Muellners'
 }
 
 export interface priceDict {

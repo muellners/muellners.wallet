@@ -5,15 +5,15 @@
     "address": "Adresse",
     "add_pk": "Legg til privat nøkkel",
     "home": {
-        "desc": "Avalanche Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av Avalanche-aktiva.",
+        "desc": "Muellners Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av Muellners-aktiva.",
         "access": {
             "title": "Velkommen tilbake!",
-            "desc": "‘Få tilgang’ til din eksisterende Avalanche-lommebok her.",
+            "desc": "‘Få tilgang’ til din eksisterende Muellners-lommebok her.",
             "submit": "Få tilgang til lommebok"
         },
         "create": {
-            "title": "Ny hos Avalanche Wallet?",
-            "desc": "‘Lag’ en ny lommebok for å sende, motta og bytte Avalanche-aktiva.",
+            "title": "Ny hos Muellners Wallet?",
+            "desc": "‘Lag’ en ny lommebok for å sende, motta og bytte Muellners-aktiva.",
             "submit": "Lag ny lommebok"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generer en ny nøkkelfrase for å sette opp din Avalanche Wallet.",
+        "generate": "Generer en ny nøkkelfrase for å sette opp din Muellners Wallet.",
         "but_have": "Har du allerede en lommebok?",
         "submit": "Generer nøkkelfrase",
         "cancel": "Avbryt",
         "mnemonic_title": "Dette er nøkkelfrasen din.",
-        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Avalanche Wallet",
+        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Muellners Wallet",
         "attention": "Se her!",
-        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din Avalanche Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
+        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din Muellners Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
         "confirm": "Jeg skrev ned nøkkelfrasen min på et sikkert sted.",
         "regenerate": "Regenerer",
         "success_title": "Gratulerer!",
-        "success_desc": "Tiden er inne for å gå inn på din Avalanche Wallet.",
+        "success_desc": "Tiden er inne for å gå inn på din Muellners Wallet.",
         "success_submit": "Få tilgang til lommebok",
         "verify": "Bekreft",
         "verifytitle": "Verifiser Mnemonic",
@@ -78,7 +78,7 @@
         "error_word": "Mnemonic-frasen du oppga for ord samsvarer ikke med den faktiske frasen."
     },
     "top": {
-        "title1": "Avledet Avalanche Wallet-adresse",
+        "title1": "Avledet Muellners Wallet-adresse",
         "title2": "Saldo",
         "title3": "Undernett",
         "title4": "Nettverk",
@@ -86,7 +86,7 @@
         "nftempty": "Du har ikke samlet noen omsettelige polletter.",
         "locked": "Låst",
         "info2": "Jeg kjøpte mynter på polettsalg. Hvor er min AVAX?",
-        "info2_desc": "Denne lommeboken er koblet til Avalanche Everest-testnettverket. Kjøpet ditt vises i lommeboken etter lansering av Avalanche Mainnet.",
+        "info2_desc": "Denne lommeboken er koblet til Muellners Everest-testnettverket. Kjøpet ditt vises i lommeboken etter lansering av Muellners Mainnet.",
         "hover1": "Vis QR-adressekode",
         "hover2": "Skriv ut",
         "hover3": "Kopier",
@@ -101,7 +101,7 @@
             "collectibles": "Samleobjekter"
         },
         "address": {
-            "derived": "Avledet Avalanche Wallet-adresse",
+            "derived": "Avledet Muellners Wallet-adresse",
             "desc": "Dette er din adresse for mottak av penger. Adressen din endres etter hvert innskudd."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Du må ha minst {0} AVAX på P-kjedet for å bli en delegator.",
         "validate_card": {
             "title": "Valider",
-            "desc": "Du har en Avalanche-node som du vil satse med.",
+            "desc": "Du har en Muellners-node som du vil satse med.",
             "submit": "Legg til validator"
         },
         "delegate_card": {
             "title": "Deleger",
-            "desc": "Du eier ikke en Avalanche-node, men du vil satse ved å bruke en annen node.",
+            "desc": "Du eier ikke en Muellners-node, men du vil satse ved å bruke en annen node.",
             "submit": "Legg til delegator"
         },
         "transfer_card": {

@@ -5,15 +5,15 @@
     "address": "Cím",
     "add_pk": "Hozzáadás",
     "home": {
-        "desc": "Az Avalanche Wallet egyszerű, biztonságos, nem letétkezelői pénztárca az Avalanche eszközök tárolására.",
+        "desc": "Az Muellners Wallet egyszerű, biztonságos, nem letétkezelői pénztárca az Muellners eszközök tárolására.",
         "access": {
             "title": "Üdv újra!",
-            "desc": "Itt 'férhet hozzá' meglévő Avalanche pénztárcájához.",
+            "desc": "Itt 'férhet hozzá' meglévő Muellners pénztárcájához.",
             "submit": "Wallet hozzáférés"
         },
         "create": {
-            "title": "Új Önnek az Avalanche Wallet?",
-            "desc": "„Hozzon létre” új pénztárcát az Avalanche eszközök küldéséhez, fogadásához és cseréjéhez.",
+            "title": "Új Önnek az Muellners Wallet?",
+            "desc": "„Hozzon létre” új pénztárcát az Muellners eszközök küldéséhez, fogadásához és cseréjéhez.",
             "submit": "Hozzon létre új pénztárcát"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generáljon új kulcsmondatot Avalanche pénztárcája használatához.",
+        "generate": "Generáljon új kulcsmondatot Muellners pénztárcája használatához.",
         "but_have": "Már van pénztárcája?",
         "submit": "Kulcsmondat létrehozása",
         "cancel": "Megszünteti",
         "mnemonic_title": "Ez a Ön kulcsmondata.",
-        "mnemonic_desc": "Ezt a 24 szót használja az itt megadott sorrendben az Avalanche Wallet pénztárca\nhelyreállítására/elérésére",
+        "mnemonic_desc": "Ezt a 24 szót használja az itt megadott sorrendben az Muellners Wallet pénztárca\nhelyreállítására/elérésére",
         "attention": "Figyelem!",
-        "warning": "Biztonságos helyen tárolja ezt a kulcsmondatot. Ezzel a kulcsmondattal bárki hozzáférhet Avalanche pénztárcájához. Az elveszített kulcsmondat helyreállítására viszont nincs mód.",
+        "warning": "Biztonságos helyen tárolja ezt a kulcsmondatot. Ezzel a kulcsmondattal bárki hozzáférhet Muellners pénztárcájához. Az elveszített kulcsmondat helyreállítására viszont nincs mód.",
         "confirm": "Biztonsági helyre írtam fel a kulcsmondatomat.",
         "regenerate": "Regenerálás",
         "success_title": "Gratulálunk!",
-        "success_desc": "Ideje megtekinteni Avalanche pénztárcáját.",
+        "success_desc": "Ideje megtekinteni Muellners pénztárcáját.",
         "success_submit": "Hozzáférés pénztárcád",
         "verify": "Ellenőrizze",
         "verifytitle": "Ellenőrizze a mnemónikus elemet",
@@ -78,7 +78,7 @@
         "error_word": "A szóra megadott mnemonikus kifejezés nem egyezik a tényleges kifejezéssel."
     },
     "top": {
-        "title1": "Származtatott Avalanche pénztárca cím",
+        "title1": "Származtatott Muellners pénztárca cím",
         "title2": "Egyensúly",
         "title3": "Alhálózat",
         "title4": "Hálózatok",
@@ -86,7 +86,7 @@
         "nftempty": "Még nem gyűjtött össze nem helyettesíthető tokent.",
         "locked": "Zárt",
         "info2": "A Token Sale-ban vásároltam érméket. Hol van az AVAX?",
-        "info2_desc": "Ez a pénztárca az Avalanche Everest teszthálózathoz csatlakozik. Vásárlása az Avalanche Mainnet elindítása után jelenik meg a pénztárcában.",
+        "info2_desc": "Ez a pénztárca az Muellners Everest teszthálózathoz csatlakozik. Vásárlása az Muellners Mainnet elindítása után jelenik meg a pénztárcában.",
         "hover1": "Cím QR-kód megtekintése",
         "hover2": "Nyomtatás",
         "hover3": "Másolat",
@@ -101,7 +101,7 @@
             "collectibles": "Gyűjthető tárgyak"
         },
         "address": {
-            "derived": "Származtatott Avalanche pénztárca cím",
+            "derived": "Származtatott Muellners pénztárca cím",
             "desc": "Ez az Ön címe, ahová pénzt kap. Címe minden befizetés után változik."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Legalábbt {0} AVAX szükséges a P láncon ahhoz, hogy érvényesítő legyen.",
         "validate_card": {
             "title": "Érvényesítés",
-            "desc": "Rendelkezik egy Avalanche csomópontja amit meg akar játszani.",
+            "desc": "Rendelkezik egy Muellners csomópontja amit meg akar játszani.",
             "submit": "Érvényesítő hozzáadása"
         },
         "delegate_card": {
             "title": "Delegálás",
-            "desc": "Nem rendelkezik Avalanche csomóponttal, de játszani akar egy másik csomópont használatával.",
+            "desc": "Nem rendelkezik Muellners csomóponttal, de játszani akar egy másik csomópont használatával.",
             "submit": "Delegáló hozzáadása"
         },
         "transfer_card": {

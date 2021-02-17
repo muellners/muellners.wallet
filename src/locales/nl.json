@@ -5,10 +5,10 @@
     "address": "Adres",
     "add_pk": "Privé code toevoegen",
     "home": {
-        "desc": "Avalanche Wallet is een eenvoudige en veilige portomonnee zonder bewaarneming voor het opbergen van activa van Avalanche.",
+        "desc": "Muellners Wallet is een eenvoudige en veilige portomonnee zonder bewaarneming voor het opbergen van activa van Muellners.",
         "access": {
             "title": "Welkom terug!",
-            "desc": "\"Open\" hier uw bestaande Avalanche-portemonnee.",
+            "desc": "\"Open\" hier uw bestaande Muellners-portemonnee.",
             "submit": "Portemonnee openen"
         },
         "create": {
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Genereer een nieuwe sleutelzin om uw Avalanche Wallet in te stellen.",
+        "generate": "Genereer een nieuwe sleutelzin om uw Muellners Wallet in te stellen.",
         "but_have": "Heeft u al een portemonnee?",
         "submit": "Genereer een sleutelzin",
         "cancel": "Annuleren",
         "mnemonic_title": "Dit is uw sleutelzin.",
-        "mnemonic_desc": "Gebruik deze 24 woorden op volgorde om uw Avalanche Wallet te herstellen.",
+        "mnemonic_desc": "Gebruik deze 24 woorden op volgorde om uw Muellners Wallet te herstellen.",
         "attention": "Attentie!",
-        "warning": "Berg deze sleutelzin op een veilige locatie op. Iedereen met deze sleutelzin heeft toegang tot uw Avalanche Wallet. Het is niet mogelijk verloren geraakte sleutelzinnen te herstellen.",
+        "warning": "Berg deze sleutelzin op een veilige locatie op. Iedereen met deze sleutelzin heeft toegang tot uw Muellners Wallet. Het is niet mogelijk verloren geraakte sleutelzinnen te herstellen.",
         "confirm": "Ik heb mijn sleutelzin op een veilige locatie opgeschreven.",
         "regenerate": "Opnieuw genereren",
         "success_title": "Gefeliciteerd!",
-        "success_desc": "Het is tijd om uw Avalanche Wallet te openen.",
+        "success_desc": "Het is tijd om uw Muellners Wallet te openen.",
         "success_submit": "Portemonnee openen",
         "verify": "Verifiëren",
         "verifytitle": "Geheugensteun verifiëren",
@@ -78,7 +78,7 @@
         "error_word": "De door u ingevoerde mnemonische zin komt niet overeen met de daadwerkelijke zin."
     },
     "top": {
-        "title1": "Afgeleid adres Avalanche-portemonne",
+        "title1": "Afgeleid adres Muellners-portemonne",
         "title2": "Saldo",
         "title3": "Subnet",
         "title4": "Netwerk",
@@ -86,7 +86,7 @@
         "nftempty": "U hebt geen onvervangbare tokens verzameld.",
         "locked": "Vergrendeld",
         "info2": "Ik heb munten in de Token verkoop gekocht. Waar zijn mijn AVAX?",
-        "info2_desc": "Deze portemonnee is verbonden met het testnetwerk van Avalanche Everest. Uw aankoop zal in de portemonnee verschijnen nadat het hoofdnet van Avalanche werd gestart.",
+        "info2_desc": "Deze portemonnee is verbonden met het testnetwerk van Muellners Everest. Uw aankoop zal in de portemonnee verschijnen nadat het hoofdnet van Muellners werd gestart.",
         "hover1": "Adres QR-code bekijken",
         "hover2": "Afdrukken",
         "hover3": "Kopiëren",
@@ -101,7 +101,7 @@
             "collectibles": "Inningen"
         },
         "address": {
-            "derived": "Afgeleid adres Avalanche-portemonne",
+            "derived": "Afgeleid adres Muellners-portemonne",
             "desc": "Dit is het adres waar u fondsen ontvangt. U adres zal na elke storting worden gewijzigd."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "U moet ten minste {0} AVAX-punten op de P-keten hebben om een delegatielid te worden.",
         "validate_card": {
             "title": "Valideren",
-            "desc": "U hebt een Avalanche-nodus die u wilt inzetten.",
+            "desc": "U hebt een Muellners-nodus die u wilt inzetten.",
             "submit": "Validator toevoegen"
         },
         "delegate_card": {
             "title": "Delegeren",
-            "desc": "U hebt geen Avalanche-nodus, maar u wilt inzetten met een andere nodus.",
+            "desc": "U hebt geen Muellners-nodus, maar u wilt inzetten met een andere nodus.",
             "submit": "Delegatielid toevoegen"
         },
         "transfer_card": {

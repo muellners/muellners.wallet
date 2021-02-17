@@ -5,15 +5,15 @@
     "address": "Adresse",
     "add_pk": "Tilføj privat nøgle",
     "home": {
-        "desc": "Avalanche Wallet er en enkel, sikker, ikke-frihedsberøvende tegnebog til opbevaring af Avalanche aktiver.",
+        "desc": "Muellners Wallet er en enkel, sikker, ikke-frihedsberøvende tegnebog til opbevaring af Muellners aktiver.",
         "access": {
             "title": "Velkommen tilbage!",
-            "desc": "Få adgang til din eksisterende Avalanche-tegnebog her.",
+            "desc": "Få adgang til din eksisterende Muellners-tegnebog her.",
             "submit": "Adgang til tegnebogen"
         },
         "create": {
-            "title": "Ny på Avalanche Wallet?",
-            "desc": "'Opret' en ny tegnebog til at sende, modtage og bytte Avalanche aktiver.",
+            "title": "Ny på Muellners Wallet?",
+            "desc": "'Opret' en ny tegnebog til at sende, modtage og bytte Muellners aktiver.",
             "submit": "Opret ny tegnebog"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generer en ny nøglesætning for at opsætte din Avalanche Wallet.",
+        "generate": "Generer en ny nøglesætning for at opsætte din Muellners Wallet.",
         "but_have": "Har du allerede en tegnebog?",
         "submit": "Genere nøglesætning",
         "cancel": "Annuller",
         "mnemonic_title": "Dette er din nøglesætning.",
-        "mnemonic_desc": "Brug disse 24 ord i rækkefølge for at gendanne din Avalanche Wallet",
+        "mnemonic_desc": "Brug disse 24 ord i rækkefølge for at gendanne din Muellners Wallet",
         "attention": "Obs!",
-        "warning": "Gem denne nøglesætning et sikkert sted. Alle med denne nøglesætning kan have adgang til din Avalanche Wallet. Du kan ikke gendanne mistede nøglesætninger.",
+        "warning": "Gem denne nøglesætning et sikkert sted. Alle med denne nøglesætning kan have adgang til din Muellners Wallet. Du kan ikke gendanne mistede nøglesætninger.",
         "confirm": "Jeg skrev min nøglesætning ned et sikkert sted.",
         "regenerate": "Regenere",
         "success_title": "Tillykke!",
-        "success_desc": "Det er tid til at få adgang til din Avalanche Wallet.",
+        "success_desc": "Det er tid til at få adgang til din Muellners Wallet.",
         "success_submit": "Adgang til tegnebogen",
         "verify": "Bekræft",
         "verifytitle": "Bekræft Mnemonic",
@@ -78,7 +78,7 @@
         "error_word": "Den mnemonic-sætning, du indtastede med ord, stemmer ikke overens med den aktuelle sætning."
     },
     "top": {
-        "title1": "Afledt Avalanche tegnebog-adresse",
+        "title1": "Afledt Muellners tegnebog-adresse",
         "title2": "Saldo",
         "title3": "Subnet",
         "title4": "Netværk",
@@ -86,7 +86,7 @@
         "nftempty": "Du har ikke samlet nogen ikke-ombyttelige poletter.",
         "locked": "Låst",
         "info2": "Jeg købte mønter i Token Salg. Hvor er min AVAX?",
-        "info2_desc": "Denne tegnebog er tilsluttet Avalanche Everest testnetværket. Dit køb vises i tegnebogen efter Avalanche Mainnet-lanceringen.",
+        "info2_desc": "Denne tegnebog er tilsluttet Muellners Everest testnetværket. Dit køb vises i tegnebogen efter Muellners Mainnet-lanceringen.",
         "hover1": "Se adresse for QR-kode",
         "hover2": "Print",
         "hover3": "Kopi",
@@ -101,7 +101,7 @@
             "collectibles": "Samlerobjekter"
         },
         "address": {
-            "derived": "Afledt Avalanche tegnebog-adresse",
+            "derived": "Afledt Muellners tegnebog-adresse",
             "desc": "Dette er din adresse til at modtage penge. Din adresse ændres efter hver indbetaling."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Du skal have mindst {0} AVAX i P-kæden for at blive delegeret.",
         "validate_card": {
             "title": "Bekræft",
-            "desc": "Du har en Avalanche-knude, som du vil satse på.",
+            "desc": "Du har en Muellners-knude, som du vil satse på.",
             "submit": "Tilføj Validator"
         },
         "delegate_card": {
             "title": "Deleger",
-            "desc": "Du ejer ikke en Avalanche-knude, men du vil satse ved hjælp af en anden knude.",
+            "desc": "Du ejer ikke en Muellners-knude, men du vil satse ved hjælp af en anden knude.",
             "submit": "Tilføj Delegator"
         },
         "transfer_card": {

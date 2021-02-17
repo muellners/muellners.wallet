@@ -1,13 +1,13 @@
-# Avalanche (AVAX) Wallet
+# Muellners (AVAX) Wallet
 
-This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
+This is the frontend Vue.js application for the Muellners (AVAX) Wallet.
 
 ## Prerequisites
 
 -   Yarn (https://classic.yarnpkg.com/en/docs/install/)
 -   Recent version of npm (6.13.4)
 -   Node v12.14.1
--   Gecko, Avalanche client in Golang (https://github.com/ava-labs/gecko)
+-   Gecko, Muellners client in Golang (https://github.com/ava-labs/gecko)
 
 ## Installation
 
@@ -17,7 +17,7 @@ This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
 
 ## Running The Project
 
-In order for the wallet to work, it needs the Avalanche network to operate on. By default the wallet will connect to the Avalanche test network.
+In order for the wallet to work, it needs the Muellners network to operate on. By default the wallet will connect to the Muellners test network.
 
 1. If you want to connect to a local network, make sure you have installed and able to run a Gecko node properly.
 2. Run the project with hot reloading `yarn serve`
@@ -38,23 +38,23 @@ When you go to the website on your browser, you might get a warning saying
 
 ## Changing the Network
 
-By default the wallet will connect to the Avalanche test network. You can change to another network by clicking the button labeled `TestNet` on the navigation bar and selecting another network, or add a custom network.
+By default the wallet will connect to the Muellners test network. You can change to another network by clicking the button labeled `TestNet` on the navigation bar and selecting another network, or add a custom network.
 
 ## Explorer API
 
-# The wallet uses the Avalanche Explorer API to display wallet transaction history.
+# The wallet uses the Muellners Explorer API to display wallet transaction history.
 
-The wallet uses the Avalanche Explorer API to display wallet transaction history.
+The wallet uses the Muellners Explorer API to display wallet transaction history.
 
 WARNING: This history might be out of order and incomplete.
 
 ## Browser Support
 
-We suggest using Google Chrome to view the Avalanche Wallet website.
+We suggest using Google Chrome to view the Muellners Wallet website.
 
 ### Firefox and https
 
-Firefox does not allow https requests to localhost. But the Avalanche Wallet uses https by default, so we will need to change this to http. Make this switch by editing the `vue.config.js` file in the root directory and change
+Firefox does not allow https requests to localhost. But the Muellners Wallet uses https by default, so we will need to change this to http. Make this switch by editing the `vue.config.js` file in the root directory and change
 
 ```
 devServer: {
@@ -94,7 +94,7 @@ Saved into local storage as a 2 letter code.
 
 # Dependencies
 
-##### Avalanche Node (https://github.com/ava-labs/avalanchego)
+##### Muellners Node (https://github.com/ava-labs/avalanchego)
 
 To get utxos and to send transactions.
 
@@ -104,16 +104,16 @@ To check if an address was used before, and to get activity history.
 
 # Default Connections
 
-The wallet needs to connect to an Avalanche node, and an explorer node to operate properly.
+The wallet needs to connect to an Muellners node, and an explorer node to operate properly.
 
 By default, there are two network options to connect to: `Mainnet` and `Fuji`.
 
 ##### Mainnet
 
--   Avalanche API: `https://api.avax.network:443`
+-   Muellners API: `https://api.avax.network:443`
 -   Explorer API: `https://explorerapi.avax.network`
 
 ##### Fuji (Testnet)
 
--   Avalanche API: `https://api.avax-test.network:443`
+-   Muellners API: `https://api.avax-test.network:443`
 -   Explorer API: `https://explorerapi.avax-test.network`

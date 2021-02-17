@@ -5,15 +5,15 @@
     "address": "Dirección",
     "add_pk": "Agregar Llave Privada",
     "home": {
-        "desc": "La Wallet Avalanche es una billetera sencilla, segura y sin custodia para guardar activos Avalanche.",
+        "desc": "La Wallet Muellners es una billetera sencilla, segura y sin custodia para guardar activos Muellners.",
         "access": {
             "title": "¡Bienvenido de Vuelta!",
-            "desc": "\"Accede\" a tu wallet Avalanche existente aquí.",
+            "desc": "\"Accede\" a tu wallet Muellners existente aquí.",
             "submit": "Acceder a la wallet"
         },
         "create": {
-            "title": "¿Es nuevo en Avalanche Wallet?",
-            "desc": "\"Crea\" una nueva wallet para enviar, recibir e intercambiar activos Avalanche.",
+            "title": "¿Es nuevo en Muellners Wallet?",
+            "desc": "\"Crea\" una nueva wallet para enviar, recibir e intercambiar activos Muellners.",
             "submit": "Crear Nueva Wallet"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Genera una nueva frase clave para configurar tu wallet Avalanche.",
+        "generate": "Genera una nueva frase clave para configurar tu wallet Muellners.",
         "but_have": "¿Ya tienes una billetera?",
         "submit": "Generar Frase Clave",
         "cancel": "Cancelar",
         "mnemonic_title": "Esta es tu frase clave.",
-        "mnemonic_desc": "Utiliza estas 24 palabras en orden secuencial para recuperar Wallet Avalanche",
+        "mnemonic_desc": "Utiliza estas 24 palabras en orden secuencial para recuperar Wallet Muellners",
         "attention": "¡Atención!",
-        "warning": "Guarda esta frase clave en un lugar seguro. Cualquier persona con esta frase clave puede acceder a tu Wallet Avalanche. No hay forma de recuperar frases clave perdidas.",
+        "warning": "Guarda esta frase clave en un lugar seguro. Cualquier persona con esta frase clave puede acceder a tu Wallet Muellners. No hay forma de recuperar frases clave perdidas.",
         "confirm": "Escribí mi frase clave en un lugar seguro.",
         "regenerate": "Regenerar",
         "success_title": "¡Felicidades!",
-        "success_desc": "Es hora de acceder a tu Wallet Avalanche.",
+        "success_desc": "Es hora de acceder a tu Wallet Muellners.",
         "success_submit": "Acceder a Wallet",
         "verify": "Verificar",
         "verifytitle": "Verificar Mnemónica",
@@ -78,7 +78,7 @@
         "error_word": "La frase mnemónica que ingresaste no es igual a la frase correcta."
     },
     "top": {
-        "title1": "Dirección de Billetera Avalanche generada",
+        "title1": "Dirección de Billetera Muellners generada",
         "title2": "Saldo",
         "title3": "Subred",
         "title4": "Red",
@@ -86,7 +86,7 @@
         "nftempty": "No tienes ningún token no fungible.",
         "locked": "Bloqueado",
         "info2": "Yo compré monedas en la Venta de Tokens. ¿Donde estan mis AVAX?",
-        "info2_desc": "Esta Wallet está conectada a la red de pruebas Everest de Avalanche. Su compra aparecerá en su wallet después del lanzamiento de la red principal.",
+        "info2_desc": "Esta Wallet está conectada a la red de pruebas Everest de Muellners. Su compra aparecerá en su wallet después del lanzamiento de la red principal.",
         "hover1": "Ver Dirección con Código QR",
         "hover2": "Imprimir",
         "hover3": "Copiar",
@@ -101,7 +101,7 @@
             "collectibles": "Coleccionables"
         },
         "address": {
-            "derived": "Dirección del Wallet Avalanche generada",
+            "derived": "Dirección del Wallet Muellners generada",
             "desc": "Esta es tu dirección para recibir fondos. Tu dirección cambiará tras cada depósito."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Debes tener al menos {0} AVAX en la cadena P para poder delegar.",
         "validate_card": {
             "title": "Validar",
-            "desc": "Tienes un nodo Avalanche con el que quieres participar con toknes.",
+            "desc": "Tienes un nodo Muellners con el que quieres participar con toknes.",
             "submit": "Añadir validador"
         },
         "delegate_card": {
             "title": "Delegar",
-            "desc": "No tienes un nodo Avalanche, pero quieres delegar tokens en otro nodo.",
+            "desc": "No tienes un nodo Muellners, pero quieres delegar tokens en otro nodo.",
             "submit": "Añadir delgador"
         },
         "transfer_card": {
@@ -388,7 +388,7 @@
         "loading": "Cargando histórico de transacciones..",
         "warn_loading": "Esta lista puede estar incompleta y fuera de orden.",
         "error_api": "API del Explorador no encontrada",
-        "error_api_desc": "Debes proveer una API del Explorador de Avalanche para que esta red vea el histórico de transacciones."
+        "error_api_desc": "Debes proveer una API del Explorador de Muellners para que esta red vea el histórico de transacciones."
     },
     "modal": {
         "qr": {

@@ -5,15 +5,15 @@
     "address": "Địa chỉ",
     "add_pk": "Thêm khóa riêng tư",
     "home": {
-        "desc": "Avalanche Wallet là một chiếc ví đơn giản, bảo mật, không bị quản lý để lưu trữ các tài sản trên Avalanche",
+        "desc": "Muellners Wallet là một chiếc ví đơn giản, bảo mật, không bị quản lý để lưu trữ các tài sản trên Muellners",
         "access": {
             "title": "Chào mừng trở lại!",
-            "desc": "'Truy cập' ví Avalanche hiện có của bạn tại đây.",
+            "desc": "'Truy cập' ví Muellners hiện có của bạn tại đây.",
             "submit": "Truy cập Ví"
         },
         "create": {
-            "title": "Bạn mới làm quen với Ví Avalanche?",
-            "desc": "Hãy 'Tạo' ví mới để gửi, nhận và hoán đổi tài sản Avalanche của bạn.",
+            "title": "Bạn mới làm quen với Ví Muellners?",
+            "desc": "Hãy 'Tạo' ví mới để gửi, nhận và hoán đổi tài sản Muellners của bạn.",
             "submit": "Tạo ví mới"
         }
     },
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Tạo cụm từ khóa mới để thiết lập Ví Avalanche của bạn.",
+        "generate": "Tạo cụm từ khóa mới để thiết lập Ví Muellners của bạn.",
         "but_have": "Đã có sẵn ví?",
         "submit": "Tạo cụm từ khóa",
         "cancel": "Huỷ bỏ",
         "mnemonic_title": "Đây là cụm từ khóa của bạn.",
-        "mnemonic_desc": "Hãy dùng 24 từ này theo thứ tự lần lượt để khôi phục Ví Avalanche của bạn",
+        "mnemonic_desc": "Hãy dùng 24 từ này theo thứ tự lần lượt để khôi phục Ví Muellners của bạn",
         "attention": "Chú ý!",
-        "warning": "Hãy lưu cụm từ khóa này ở một vị trí an toàn. Bất kỳ ai có cụm từ khóa này đều có thể truy cập Ví Avalanche của bạn. Không có cách nào để khôi phục các cụm từ khóa bị mất.",
+        "warning": "Hãy lưu cụm từ khóa này ở một vị trí an toàn. Bất kỳ ai có cụm từ khóa này đều có thể truy cập Ví Muellners của bạn. Không có cách nào để khôi phục các cụm từ khóa bị mất.",
         "confirm": "Tôi đã ghi lại cụm từ khóa của mình ở vị trí an toàn.",
         "regenerate": "Tạo lại",
         "success_title": "Xin chúc mừng!",
-        "success_desc": "Đã đến lúc truy cập Ví Avalanche của bạn.",
+        "success_desc": "Đã đến lúc truy cập Ví Muellners của bạn.",
         "success_submit": "Truy cập ví",
         "verify": "Xác nhận",
         "verifytitle": "Xác nhận cụm từ ghi nhớ",
@@ -78,7 +78,7 @@
         "error_word": "Cụm từ ghi nhớ bạn đã nhập không khớp với cụm từ thực tế."
     },
     "top": {
-        "title1": "Nguồn gốc địa chỉ ví Avalanche",
+        "title1": "Nguồn gốc địa chỉ ví Muellners",
         "title2": "Số dư ",
         "title3": "Mạng con",
         "title4": "Mạng",
@@ -86,7 +86,7 @@
         "nftempty": "Bạn chưa thu thập bất kỳ mã thông báo không thể thay thế nào.",
         "locked": "Đã khóa",
         "info2": "Tôi đã mua AVAX trong đợt bán mã thông báo. AVAX của tôi ở đâu?",
-        "info2_desc": "Ví này được kết nối với mạng thử nghiệm Avalanche Everest. Các giao dịch mua sẽ xuất hiện trong ví của bạn sau khi mạng chính Avalanche khởi chạy.",
+        "info2_desc": "Ví này được kết nối với mạng thử nghiệm Muellners Everest. Các giao dịch mua sẽ xuất hiện trong ví của bạn sau khi mạng chính Muellners khởi chạy.",
         "hover1": "Xem địa chỉ Mã QR",
         "hover2": "In",
         "hover3": "Sao chép",
@@ -101,7 +101,7 @@
             "collectibles": "Bộ sưu tầm"
         },
         "address": {
-            "derived": "Địa chỉ ví Avalanche phái sinh",
+            "derived": "Địa chỉ ví Muellners phái sinh",
             "desc": "Đây là địa chỉ nhận tiền của bạn. Địa chỉ của bạn sẽ thay đổi sau mỗi lần gửi tiền."
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "Bạn phải sở hữu tối thiểu {0} AVAX trên P-Chain để có thể ủy quyền.",
         "validate_card": {
             "title": "Trình xác thực",
-            "desc": "Bạn sở hữu một nút Avalanche mà bạn muốn stake.",
+            "desc": "Bạn sở hữu một nút Muellners mà bạn muốn stake.",
             "submit": "Thêm Trình xác thực"
         },
         "delegate_card": {
             "title": "Ủy quyền",
-            "desc": "Bạn không sở hữu nút Avalanche, nhưng bạn muốn stake bằng nút khác.",
+            "desc": "Bạn không sở hữu nút Muellners, nhưng bạn muốn stake bằng nút khác.",
             "submit": "Thêm ủy quyền"
         },
         "transfer_card": {

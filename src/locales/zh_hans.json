@@ -5,15 +5,15 @@
     "address": "地址",
     "add_pk": "添加私钥",
     "home": {
-        "desc": "Avalanche 钱包是一个简单、安全、无托管的钱包，用于存储 Avalanche 上的资产。",
+        "desc": "Muellners 钱包是一个简单、安全、无托管的钱包，用于存储 Muellners 上的资产。",
         "access": {
             "title": "欢迎回来！",
-            "desc": "在这里访问你现有的 Avalanche 钱包。",
+            "desc": "在这里访问你现有的 Muellners 钱包。",
             "submit": "访问钱包"
         },
         "create": {
-            "title": "第一次使用 Avalanche 钱包？",
-            "desc": "点击“创建”来创建一个新钱包来发送、接收和交换 Avalanche 上的资产。",
+            "title": "第一次使用 Muellners 钱包？",
+            "desc": "点击“创建”来创建一个新钱包来发送、接收和交换 Muellners 上的资产。",
             "submit": "创建新钱包"
         }
     },
@@ -29,7 +29,7 @@
     },
     "access": {
         "title": "你想如何访问你的钱包？",
-        "create": "还没有 Avalanche 钱包？",
+        "create": "还没有 Muellners 钱包？",
         "but_mnemonic": "助记词",
         "but_keystore": "密钥存储文件",
         "cancel": "取消",
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "生成一个新的助记词以设置你的Avalanche钱包。",
+        "generate": "生成一个新的助记词以设置你的Muellners钱包。",
         "but_have": "已有钱包？",
         "submit": "生成助记词",
         "cancel": "取消",
         "mnemonic_title": "这是你的助记词。",
-        "mnemonic_desc": "按顺序使用这 24 个单词来恢复你的 Avalanche 钱包",
+        "mnemonic_desc": "按顺序使用这 24 个单词来恢复你的 Muellners 钱包",
         "attention": "注意！",
-        "warning": "将此助记词存储在一个安全的位置。任何持有此助记词的人都可以访问你的Avalanche钱包。没有办法找回丢失的助记词。",
+        "warning": "将此助记词存储在一个安全的位置。任何持有此助记词的人都可以访问你的Muellners钱包。没有办法找回丢失的助记词。",
         "confirm": "我已经在一个安全的地方写下了我的助记词。",
         "regenerate": "重新生成",
         "success_title": "恭喜！",
-        "success_desc": "是时候访问你的Avalanche钱包了。",
+        "success_desc": "是时候访问你的Muellners钱包了。",
         "success_submit": "访问钱包",
         "verify": "验证",
         "verifytitle": "验证助记词",
@@ -78,7 +78,7 @@
         "error_word": "你输入的助记词与实际的不匹配。"
     },
     "top": {
-        "title1": "派生Avalanche钱包地址",
+        "title1": "派生Muellners钱包地址",
         "title2": "余额",
         "title3": "子网",
         "title4": "网络",
@@ -86,7 +86,7 @@
         "nftempty": "你没有收集任何不可分割代币。",
         "locked": "锁定",
         "info2": "我在代币销售中购买了货币。我的AVAX在哪里？",
-        "info2_desc": "该钱包已连接到Avalanche Everest测试网络。Avalanche主网启动后，你的购买将出现在钱包。",
+        "info2_desc": "该钱包已连接到Muellners Everest测试网络。Muellners主网启动后，你的购买将出现在钱包。",
         "hover1": "查看地址二维码",
         "hover2": "打印",
         "hover3": "复制",
@@ -101,7 +101,7 @@
             "collectibles": "收藏品"
         },
         "address": {
-            "derived": "派生Avalanche钱包地址",
+            "derived": "派生Muellners钱包地址",
             "desc": "这是你接收资金的地址。每次存款后你的地址都会改变。"
         }
     },
@@ -181,12 +181,12 @@
         "warning_2": "你必须在P链拥有至少{0}AVAX以成为一个委托者。",
         "validate_card": {
             "title": "验证",
-            "desc": "你有一个想用于质押的Avalanche节点。",
+            "desc": "你有一个想用于质押的Muellners节点。",
             "submit": "添加验证者"
         },
         "delegate_card": {
             "title": "委托",
-            "desc": "你没有Avalanche节点，但你想使用另一个节点进行质押。",
+            "desc": "你没有Muellners节点，但你想使用另一个节点进行质押。",
             "submit": "添加委托者"
         },
         "transfer_card": {

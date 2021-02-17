@@ -5,15 +5,15 @@
     "address": "Adres",
     "add_pk": "Özel Anahtar Ekle",
     "home": {
-        "desc": "Avalanche Cüzdan, dijital varlıklarınızı saklamaya yönelik basit, güvenli, gözetimsiz bir cüzdandır.",
+        "desc": "Muellners Cüzdan, dijital varlıklarınızı saklamaya yönelik basit, güvenli, gözetimsiz bir cüzdandır.",
         "access": {
             "title": "Tekrar Hoşgeldiniz!",
             "desc": "Mevcut AVAX cüzdanınızı buradan açabilirsiniz.",
             "submit": "Cüzdanı Aç"
         },
         "create": {
-            "title": "Avalanche Cüzdan'da yeni misiniz?",
-            "desc": "Avalanche varlıklarınızı göndermek, almak ve takas etmek için yeni bir cüzdan oluşturun.",
+            "title": "Muellners Cüzdan'da yeni misiniz?",
+            "desc": "Muellners varlıklarınızı göndermek, almak ve takas etmek için yeni bir cüzdan oluşturun.",
             "submit": "Yeni Cüzdan Oluşturun"
         }
     },
@@ -69,18 +69,18 @@
         }
     },
     "create": {
-        "generate": "Avalanche Cüzdanınızı kurmak için yeni bir anahtar cümle oluşturun.",
+        "generate": "Muellners Cüzdanınızı kurmak için yeni bir anahtar cümle oluşturun.",
         "but_have": "Halihazırda bir cüzdanınız var mı?",
         "submit": "Anımsatıcı Anahtar Cümle Oluştur",
         "cancel": "İptal",
         "mnemonic_title": "Bu sizin anahtar cümleniz.",
-        "mnemonic_desc": "Avalanche Cüzdanınızı tekrar yaratmak için bu 24 kelimeyi sıralı şekilde kullanın",
+        "mnemonic_desc": "Muellners Cüzdanınızı tekrar yaratmak için bu 24 kelimeyi sıralı şekilde kullanın",
         "attention": "Dikkat!",
-        "warning": "Bu anahtar cümleyi güvenli bir yerde saklayın. Bu anahtar cümleye sahip olan herkes Avalanche Cüzdanınıza erişebilir. Kayıp anahtar cümleleri kurtarmanın hiçbir yolu yok.",
+        "warning": "Bu anahtar cümleyi güvenli bir yerde saklayın. Bu anahtar cümleye sahip olan herkes Muellners Cüzdanınıza erişebilir. Kayıp anahtar cümleleri kurtarmanın hiçbir yolu yok.",
         "confirm": "Anahtar cümlemi güvenli bir yere yazdım.",
         "regenerate": "Tekrar Oluştur",
         "success_title": "Tebrikler!",
-        "success_desc": "Avalanche Cüzdanınıza erişmenin tam zamanı.",
+        "success_desc": "Muellners Cüzdanınıza erişmenin tam zamanı.",
         "success_submit": "Cüzdanı Aç",
         "verify": "Doğrula",
         "verifytitle": "Anımsatıcı Kelime Öbeğinizi Doğrulayın",
@@ -89,7 +89,7 @@
         "error_word": "Girmiş olduğunuz anımsatıcı kelimeler gerçek kelime öbeği ile eşleşmedi."
     },
     "top": {
-        "title1": "Türetilmiş Avalanche Cüzdan Adresi",
+        "title1": "Türetilmiş Muellners Cüzdan Adresi",
         "title2": "Bakiye",
         "title3": "Alt Ağ",
         "title4": "Ağ",
@@ -97,7 +97,7 @@
         "nftempty": "Hiç NFT sahibi değilsiniz.",
         "locked": "Kilitli",
         "info2": "Token satışından AVAX aldım. Almış olduğum AVAX'lar nerede?",
-        "info2_desc": "Bu cüzdan Avalanche Everest test ağına bağlandı. Satın almış olduğunuz AVAX'lar Avalanche Ana Ağı hayata geçince cüzdanınızda görünebilir olacak.",
+        "info2_desc": "Bu cüzdan Muellners Everest test ağına bağlandı. Satın almış olduğunuz AVAX'lar Muellners Ana Ağı hayata geçince cüzdanınızda görünebilir olacak.",
         "hover1": "Adresin QR Kodunu Görüntüle",
         "hover2": "Yazdır",
         "hover3": "Kopyala",
@@ -112,7 +112,7 @@
             "collectibles": "Koleksiyon"
         },
         "address": {
-            "derived": "Türetilmiş Avalanche Cüzdan Adresi",
+            "derived": "Türetilmiş Muellners Cüzdan Adresi",
             "desc": "Bu ödeme alacağınız adrestir. Adresiniz her para yatırma işleminden sonra değişecektir."
         }
     },
@@ -199,12 +199,12 @@
         "warning_2": "Devredici olabilmeniz için P zincirinde en az {0} AVAX'ınızın olması gerekir.",
         "validate_card": {
             "title": "Doğrula",
-            "desc": "Stake yapmak istediğiniz bir Avalanche düğümünüz var.",
+            "desc": "Stake yapmak istediğiniz bir Muellners düğümünüz var.",
             "submit": "Doğrulayıcı Ekle"
         },
         "delegate_card": {
             "title": "Devret",
-            "desc": "Bir Avalanche düğümüne sahip değilsiniz ancak bir başka düğüm kullanarak stake yapmak istiyorsunuz.",
+            "desc": "Bir Muellners düğümüne sahip değilsiniz ancak bir başka düğüm kullanarak stake yapmak istiyorsunuz.",
             "submit": "Devredici Ekle"
         },
         "transfer_card": {
