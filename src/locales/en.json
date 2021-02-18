@@ -5,15 +5,15 @@
     "address": "Address",
     "add_pk": "Add Private Key",
     "home": {
-        "desc": "Muellners Wallet is a simple, secure, non-custodial wallet for storing Muellners assets.",
+        "desc": "Finscale Wallet is a simple, secure, non-custodial wallet for storing Finscale Assets.",
         "access": {
             "title": "Welcome Back!",
-            "desc": "Access your existing Muellners wallet here.",
+            "desc": "Access your existing Finscale Wallet here.",
             "submit": "Access Wallet"
         },
         "create": {
-            "title": "New to Muellners Wallet?",
-            "desc": "Create a new wallet to send, receive and swap Muellners assets.",
+            "title": "New to Finscale Wallet?",
+            "desc": "Create a new wallet to send, receive and swap Finscale Assets.",
             "submit": "Create New Wallet"
         }
     },
@@ -77,18 +77,18 @@
         }
     },
     "create": {
-        "generate": "Generate a new key phrase to setup your Muellners Wallet.",
+        "generate": "Generate a new key phrase to setup your Finscale Wallet.",
         "but_have": "Already have a wallet?",
         "submit": "Generate Key Phrase",
         "cancel": "Cancel",
         "mnemonic_title": "This is your key phrase.",
-        "mnemonic_desc": "Use these 24 words in sequential order to recover your Muellners Wallet",
+        "mnemonic_desc": "Use these 24 words in sequential order to recover your Finscale Wallet",
         "attention": "Attention!",
-        "warning": "Store this key phrase in a secure location. Anyone with this key phrase can access your Muellners Wallet. There is no way to recover lost key phrases.",
+        "warning": "Store this key phrase in a secure location. Anyone with this key phrase can access your Finscale Wallet. There is no way to recover lost key phrases.",
         "confirm": "I wrote down my key phrase in a secure location.",
         "regenerate": "Regenerate",
         "success_title": "Congratulations!",
-        "success_desc": "It's time to access your Muellners Wallet.",
+        "success_desc": "It's time to access your Finscale Wallet.",
         "success_submit": "Access Wallet",
         "verify": "Verify",
         "verifytitle": "Verify Mnemonic",
@@ -97,7 +97,7 @@
         "error_word": "The mnemonic phrase you entered for word not match the actual phrase."
     },
     "top": {
-        "title1": "Derived Muellners Wallet Address",
+        "title1": "Derived Finscale Wallet Address",
         "title2": "Balance",
         "title3": "Subnet",
         "title4": "Network",
@@ -120,7 +120,7 @@
             "collectibles": "Collectibles"
         },
         "address": {
-            "derived": "Derived Muellners Wallet Address",
+            "derived": "Derived Finscale Wallet Address",
             "title_x": "Derived Wallet Address",
             "title_p": "Derived Platform Wallet Address",
             "title_c": "Derived EVM Wallet Address",

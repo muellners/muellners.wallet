@@ -5,14 +5,14 @@
     "address": "Adresse",
     "add_pk": "Privaten Schlüssel hinzufügen",
     "home": {
-        "desc": "Muellners Wallet ist eine einfache, sichere, \"ohne Aufsicht\" Wallet zur Aufbewahrung von Muellners Vermögenswerten.",
+        "desc": "Finscale Wallet ist eine einfache, sichere, \"ohne Aufsicht\" Wallet zur Aufbewahrung von Muellners Vermögenswerten.",
         "access": {
             "title": "Willkommen zurück!",
-            "desc": "Hier auf dein bestehendes Muellners Wallet zugreifen.",
+            "desc": "Hier auf dein bestehendes Finscale Wallet zugreifen.",
             "submit": "Auf Wallet zugreifen"
         },
         "create": {
-            "title": "Neu bei Muellners Wallet?",
+            "title": "Neu bei Finscale Wallet?",
             "desc": "Erstelle eine neue Wallet zum Senden, Empfangen und Tauschen von Muellners Vermögenswerten.",
             "submit": "Neue Wallet erstellen"
         }
@@ -63,13 +63,13 @@
         "submit": "Schlüsselphrase erstellen",
         "cancel": "Abbrechen",
         "mnemonic_title": "Dies ist Ihr Schlüsselsatz.",
-        "mnemonic_desc": "Verwende diese 24 Wörter in der Reihenfolge, um deine Muellners Wallet wiederzuherstellen",
+        "mnemonic_desc": "Verwende diese 24 Wörter in der Reihenfolge, um deine Finscale Wallet wiederzuherstellen",
         "attention": "Achtung!",
-        "warning": "Speichere diese Schlüsselphrase an einem sicheren Ort. Jeder mit dieser Schlüsselphrase kann auf deine Muellners Wallet zugreifen. Es gibt keine Möglichkeit, verlorene Schlüsselphrasen wiederherzustellen.",
+        "warning": "Speichere diese Schlüsselphrase an einem sicheren Ort. Jeder mit dieser Schlüsselphrase kann auf deine Finscale Wallet zugreifen. Es gibt keine Möglichkeit, verlorene Schlüsselphrasen wiederherzustellen.",
         "confirm": "Ich habe meine Schlüsselphrase an einem sicheren Ort notiert.",
         "regenerate": "Wiederherstellen",
         "success_title": "Herzlichen Glückwunsch!",
-        "success_desc": "Es ist an der Zeit, deine Muellners Wallet zu öffnen.",
+        "success_desc": "Es ist an der Zeit, deine Finscale Wallet zu öffnen.",
         "success_submit": "Auf Wallet zugreifen",
         "verify": "Verifizieren",
         "verifytitle": "Verifiziere Mnemonic",

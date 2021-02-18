@@ -5,14 +5,14 @@
     "address": "Adresse",
     "add_pk": "Tilføj privat nøgle",
     "home": {
-        "desc": "Muellners Wallet er en enkel, sikker, ikke-frihedsberøvende tegnebog til opbevaring af Muellners aktiver.",
+        "desc": "Finscale Wallet er en enkel, sikker, ikke-frihedsberøvende tegnebog til opbevaring af Muellners aktiver.",
         "access": {
             "title": "Velkommen tilbage!",
             "desc": "Få adgang til din eksisterende Muellners-tegnebog her.",
             "submit": "Adgang til tegnebogen"
         },
         "create": {
-            "title": "Ny på Muellners Wallet?",
+            "title": "Ny på Finscale Wallet?",
             "desc": "'Opret' en ny tegnebog til at sende, modtage og bytte Muellners aktiver.",
             "submit": "Opret ny tegnebog"
         }
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generer en ny nøglesætning for at opsætte din Muellners Wallet.",
+        "generate": "Generer en ny nøglesætning for at opsætte din Finscale Wallet.",
         "but_have": "Har du allerede en tegnebog?",
         "submit": "Genere nøglesætning",
         "cancel": "Annuller",
         "mnemonic_title": "Dette er din nøglesætning.",
-        "mnemonic_desc": "Brug disse 24 ord i rækkefølge for at gendanne din Muellners Wallet",
+        "mnemonic_desc": "Brug disse 24 ord i rækkefølge for at gendanne din Finscale Wallet",
         "attention": "Obs!",
-        "warning": "Gem denne nøglesætning et sikkert sted. Alle med denne nøglesætning kan have adgang til din Muellners Wallet. Du kan ikke gendanne mistede nøglesætninger.",
+        "warning": "Gem denne nøglesætning et sikkert sted. Alle med denne nøglesætning kan have adgang til din Finscale Wallet. Du kan ikke gendanne mistede nøglesætninger.",
         "confirm": "Jeg skrev min nøglesætning ned et sikkert sted.",
         "regenerate": "Regenere",
         "success_title": "Tillykke!",
-        "success_desc": "Det er tid til at få adgang til din Muellners Wallet.",
+        "success_desc": "Det er tid til at få adgang til din Finscale Wallet.",
         "success_submit": "Adgang til tegnebogen",
         "verify": "Bekræft",
         "verifytitle": "Bekræft Mnemonic",

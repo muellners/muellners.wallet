@@ -5,14 +5,14 @@
     "address": "Cím",
     "add_pk": "Hozzáadás",
     "home": {
-        "desc": "Az Muellners Wallet egyszerű, biztonságos, nem letétkezelői pénztárca az Muellners eszközök tárolására.",
+        "desc": "Az Finscale Wallet egyszerű, biztonságos, nem letétkezelői pénztárca az Muellners eszközök tárolására.",
         "access": {
             "title": "Üdv újra!",
             "desc": "Itt 'férhet hozzá' meglévő Muellners pénztárcájához.",
             "submit": "Wallet hozzáférés"
         },
         "create": {
-            "title": "Új Önnek az Muellners Wallet?",
+            "title": "Új Önnek az Finscale Wallet?",
             "desc": "„Hozzon létre” új pénztárcát az Muellners eszközök küldéséhez, fogadásához és cseréjéhez.",
             "submit": "Hozzon létre új pénztárcát"
         }
@@ -63,7 +63,7 @@
         "submit": "Kulcsmondat létrehozása",
         "cancel": "Megszünteti",
         "mnemonic_title": "Ez a Ön kulcsmondata.",
-        "mnemonic_desc": "Ezt a 24 szót használja az itt megadott sorrendben az Muellners Wallet pénztárca\nhelyreállítására/elérésére",
+        "mnemonic_desc": "Ezt a 24 szót használja az itt megadott sorrendben az Finscale Wallet pénztárca\nhelyreállítására/elérésére",
         "attention": "Figyelem!",
         "warning": "Biztonságos helyen tárolja ezt a kulcsmondatot. Ezzel a kulcsmondattal bárki hozzáférhet Muellners pénztárcájához. Az elveszített kulcsmondat helyreállítására viszont nincs mód.",
         "confirm": "Biztonsági helyre írtam fel a kulcsmondatomat.",

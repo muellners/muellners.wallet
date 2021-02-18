@@ -5,14 +5,14 @@
     "address": "כתובת",
     "add_pk": "הוסף מפתח פרטי",
     "home": {
-        "desc": "Muellners Wallet הוא ארנק פשוט, מאובטח ללא משמורת המיועד לאחסון נכסי Muellners.",
+        "desc": "Finscale Wallet הוא ארנק פשוט, מאובטח ללא משמורת המיועד לאחסון נכסי Muellners.",
         "access": {
             "title": "ברוכים השבים!",
             "desc": "'גש' לארנק Muellners הנוכחי שלך כאן.",
             "submit": "גש לארנק"
         },
         "create": {
-            "title": "משתמש חדש ב-Muellners Wallet?",
+            "title": "משתמש חדש ב-Finscale Wallet?",
             "desc": "'צור' ארנק חדש כדי לשלוח, לקבל ולהחליף נכסי Muellners.",
             "submit": "צור ארנק חדש"
         }

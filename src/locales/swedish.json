@@ -5,14 +5,14 @@
     "address": "Adress",
     "add_pk": "Lägg till Privat Nyckel",
     "home": {
-        "desc": "Muellners Wallet är en enkel, säker, icke-depåplånbok för lagring av Muellners-tillgångar.",
+        "desc": "Finscale Wallet är en enkel, säker, icke-depåplånbok för lagring av Muellners-tillgångar.",
         "access": {
             "title": "Välkommen tillbaka!",
             "desc": "'Få tillgång' till din befintliga Muellners-plånbok här.",
             "submit": "Få tillgång till Wallet"
         },
         "create": {
-            "title": "Ny i Muellners Wallet?",
+            "title": "Ny i Finscale Wallet?",
             "desc": "\"Skapa\" en ny plånbok för att skicka, ta emot och byta Muellners-tillgångar.",
             "submit": "Skapa ny Wallet"
         }

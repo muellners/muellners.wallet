@@ -5,14 +5,14 @@
     "address": "Adresse",
     "add_pk": "Legg til privat nøkkel",
     "home": {
-        "desc": "Muellners Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av Muellners-aktiva.",
+        "desc": "Finscale Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av Muellners-aktiva.",
         "access": {
             "title": "Velkommen tilbake!",
             "desc": "‘Få tilgang’ til din eksisterende Muellners-lommebok her.",
             "submit": "Få tilgang til lommebok"
         },
         "create": {
-            "title": "Ny hos Muellners Wallet?",
+            "title": "Ny hos Finscale Wallet?",
             "desc": "‘Lag’ en ny lommebok for å sende, motta og bytte Muellners-aktiva.",
             "submit": "Lag ny lommebok"
         }
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generer en ny nøkkelfrase for å sette opp din Muellners Wallet.",
+        "generate": "Generer en ny nøkkelfrase for å sette opp din Finscale Wallet.",
         "but_have": "Har du allerede en lommebok?",
         "submit": "Generer nøkkelfrase",
         "cancel": "Avbryt",
         "mnemonic_title": "Dette er nøkkelfrasen din.",
-        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Muellners Wallet",
+        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Finscale Wallet",
         "attention": "Se her!",
-        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din Muellners Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
+        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din Finscale Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
         "confirm": "Jeg skrev ned nøkkelfrasen min på et sikkert sted.",
         "regenerate": "Regenerer",
         "success_title": "Gratulerer!",
-        "success_desc": "Tiden er inne for å gå inn på din Muellners Wallet.",
+        "success_desc": "Tiden er inne for å gå inn på din Finscale Wallet.",
         "success_submit": "Få tilgang til lommebok",
         "verify": "Bekreft",
         "verifytitle": "Verifiser Mnemonic",
@@ -78,7 +78,7 @@
         "error_word": "Mnemonic-frasen du oppga for ord samsvarer ikke med den faktiske frasen."
     },
     "top": {
-        "title1": "Avledet Muellners Wallet-adresse",
+        "title1": "Avledet Finscale Wallet-adresse",
         "title2": "Saldo",
         "title3": "Undernett",
         "title4": "Nettverk",
@@ -101,7 +101,7 @@
             "collectibles": "Samleobjekter"
         },
         "address": {
-            "derived": "Avledet Muellners Wallet-adresse",
+            "derived": "Avledet Finscale Wallet-adresse",
             "desc": "Dette er din adresse for mottak av penger. Adressen din endres etter hvert innskudd."
         }
     },

@@ -5,14 +5,14 @@
     "address": "Adres",
     "add_pk": "Voeg Privaat Sleutel by",
     "home": {
-        "desc": "Muellners Wallet is 'n eenvoudige, veilige, nie-toesighouende beursie vir die berging van Muellners-bates.",
+        "desc": "Finscale Wallet is 'n eenvoudige, veilige, nie-toesighouende beursie vir die berging van Muellners-bates.",
         "access": {
             "title": "Welkom terug!",
             "desc": "Kry 'toegang' tot jou bestaande Muellners beursie hier.",
             "submit": "Kry toegang tot beursie"
         },
         "create": {
-            "title": "Nuut aan Muellners Wallet?",
+            "title": "Nuut aan Finscale Wallet?",
             "desc": "'Skep' 'n nuwe beursie om Muellners-bates te stuur, ontvang en omruil.",
             "submit": "Skep Nuwe Beursie"
         }
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Genereer 'n nuwe frase om u Muellners Wallet op te stel.",
+        "generate": "Genereer 'n nuwe frase om u Finscale Wallet op te stel.",
         "but_have": "Het u alreeds a beursie?",
         "submit": "Genereer Sleutelfrase",
         "cancel": "Kanselleer",
         "mnemonic_title": "Hierdie is u sleutelfrase.",
-        "mnemonic_desc": "Gebruik hierdie 24 woorde in volgorde om u Muellners Wallet te herstel",
+        "mnemonic_desc": "Gebruik hierdie 24 woorde in volgorde om u Finscale Wallet te herstel",
         "attention": "Aandag!",
-        "warning": "Stoor hierdie sleutelfrase op 'n veilige plek. Enigiemand met hierdie sleutelfrase kan toegang tot u Muellners Wallet verkry. Daar is geen manier om verlore sleutelfrases te herstel nie.",
+        "warning": "Stoor hierdie sleutelfrase op 'n veilige plek. Enigiemand met hierdie sleutelfrase kan toegang tot u Finscale Wallet verkry. Daar is geen manier om verlore sleutelfrases te herstel nie.",
         "confirm": "Ek het my sleutelwoord op 'n veilige plek neergeskryf.",
         "regenerate": "Genereer Weereens",
         "success_title": "Baie geluk!",
-        "success_desc": "Dit is tyd om toegang tot u Muellners Wallet te kry.",
+        "success_desc": "Dit is tyd om toegang tot u Finscale Wallet te kry.",
         "success_submit": "Kry Toegang tot Beursie",
         "verify": "Verifieer",
         "verifytitle": "Verifieer Mnemoniek",

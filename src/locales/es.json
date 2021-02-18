@@ -12,7 +12,7 @@
             "submit": "Acceder a la wallet"
         },
         "create": {
-            "title": "¿Es nuevo en Muellners Wallet?",
+            "title": "¿Es nuevo en Finscale Wallet?",
             "desc": "\"Crea\" una nueva wallet para enviar, recibir e intercambiar activos Muellners.",
             "submit": "Crear Nueva Wallet"
         }

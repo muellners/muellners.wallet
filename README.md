@@ -1,6 +1,6 @@
-# Muellners Wallet
+# Finscale Wallet
 
-This is the frontend Vue.js application for the Muellners Wallet.
+This is the frontend Vue.js application for the Finscale Wallet.
 
 ## Prerequisites
 
@@ -50,11 +50,11 @@ WARNING: This history might be out of order and incomplete.
 
 ## Browser Support
 
-We suggest using Google Chrome to view the Muellners Wallet website.
+We suggest using Google Chrome to view the Finscale Wallet website.
 
 ### Firefox and https
 
-Firefox does not allow https requests to localhost. But the Muellners Wallet uses https by default, so we will need to change this to http. Make this switch by editing the `vue.config.js` file in the root directory and change
+Firefox does not allow https requests to localhost. But the Finscale Wallet uses https by default, so we will need to change this to http. Make this switch by editing the `vue.config.js` file in the root directory and change
 
 ```
 devServer: {

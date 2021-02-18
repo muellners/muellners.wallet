@@ -5,7 +5,7 @@
     "address": "Adres",
     "add_pk": "Privé code toevoegen",
     "home": {
-        "desc": "Muellners Wallet is een eenvoudige en veilige portomonnee zonder bewaarneming voor het opbergen van activa van Muellners.",
+        "desc": "Finscale Wallet is een eenvoudige en veilige portomonnee zonder bewaarneming voor het opbergen van activa van Muellners.",
         "access": {
             "title": "Welkom terug!",
             "desc": "\"Open\" hier uw bestaande Muellners-portemonnee.",
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Genereer een nieuwe sleutelzin om uw Muellners Wallet in te stellen.",
+        "generate": "Genereer een nieuwe sleutelzin om uw Finscale Wallet in te stellen.",
         "but_have": "Heeft u al een portemonnee?",
         "submit": "Genereer een sleutelzin",
         "cancel": "Annuleren",
         "mnemonic_title": "Dit is uw sleutelzin.",
-        "mnemonic_desc": "Gebruik deze 24 woorden op volgorde om uw Muellners Wallet te herstellen.",
+        "mnemonic_desc": "Gebruik deze 24 woorden op volgorde om uw Finscale Wallet te herstellen.",
         "attention": "Attentie!",
-        "warning": "Berg deze sleutelzin op een veilige locatie op. Iedereen met deze sleutelzin heeft toegang tot uw Muellners Wallet. Het is niet mogelijk verloren geraakte sleutelzinnen te herstellen.",
+        "warning": "Berg deze sleutelzin op een veilige locatie op. Iedereen met deze sleutelzin heeft toegang tot uw Finscale Wallet. Het is niet mogelijk verloren geraakte sleutelzinnen te herstellen.",
         "confirm": "Ik heb mijn sleutelzin op een veilige locatie opgeschreven.",
         "regenerate": "Opnieuw genereren",
         "success_title": "Gefeliciteerd!",
-        "success_desc": "Het is tijd om uw Muellners Wallet te openen.",
+        "success_desc": "Het is tijd om uw Finscale Wallet te openen.",
         "success_submit": "Portemonnee openen",
         "verify": "Verifiëren",
         "verifytitle": "Geheugensteun verifiëren",
