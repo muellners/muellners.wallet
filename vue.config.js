@@ -14,7 +14,7 @@ module.exports = {
         before: beforeMiddleware,
         onListening: onListening,
     },
-    // publicPath: '',
+    publicPath: 'muellners.wallet',
     configureWebpack: {
         optimization: {
             splitChunks: {
