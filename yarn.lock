@@ -2088,12 +2088,12 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/vue-datetime@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/vue-datetime/-/vue-datetime-1.0.0.tgz#e7c08ab2e608498f2001d31da35248ea6759c084"
-  integrity sha512-2cq6OU0GyAirjd7vkZEbTk7bYrgcBNcMpa5tcAQLnXIW0Gg+zkED0siwuHWSI+qlrry3N+XnHJjdj+jQyvMGJA==
+"@types/vue-datetime@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@types/vue-datetime/-/vue-datetime-1.0.1.tgz#fedfbea8792eae48c6b9b9cafa133363a689674b"
+  integrity sha512-MbuhT/JbOLvLIrMGwvq0KxghgM5Ud65sHRi+zNHcx6iWhkIv221KJzSXaEFufbWlkZSrSCNa+utaiqjNjBahVQ==
   dependencies:
-    vue ">=2.0.0"
+    vue "^2.0.0"
 
 "@types/webpack-dev-server@^3.11.0":
   version "3.11.1"
@@ -13929,7 +13929,7 @@ vue-virtual-scroll-list@^2.3.2:
   resolved "https://registry.yarnpkg.com/vue-virtual-scroll-list/-/vue-virtual-scroll-list-2.3.2.tgz#20dcdab58cbba4ca8b466ba1c8f318af358d647c"
   integrity sha512-afm5bYgjJRK160KXlvs03dsPixEL/gS8sV5DKxEDRjPQKMXjIBmTMN/hMTEyazsPl+G4tXQs/msYK7p7tNVogQ==
 
-vue@2.6.12, vue@>=2.0.0, vue@^2.6.11:
+vue@2.6.12, vue@^2.0.0, vue@^2.6.11:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
