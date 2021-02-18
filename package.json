@@ -1,6 +1,6 @@
 {
     "name": "wallet",
-    "homepage": "http://muellners.github.io/muellners.wallet"
+    "homepage": "http://muellners.github.io/muellners.wallet",
     "private": false,
     "version": "0.1.6",
     "engines": {
@@ -14,7 +14,7 @@
         "release": "release-it",
         "serve": "vue-cli-service serve",
         "predeploy": "yarn build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build",
         "test_watch": "jest --verbose --watch ./tests",
         "test_debug": "node --inspect-brk node_modules/.bin/jest ./tests --runInBand",
         "test": "jest --verbose ./tests"
