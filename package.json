@@ -14,7 +14,7 @@
         "release": "release-it",
         "serve": "vue-cli-service serve",
         "predeploy": "yarn build",
-        "deploy": "gh-pages -d build",
+        "deploy": "gh-pages -d dist",
         "test_watch": "jest --verbose --watch ./tests",
         "test_debug": "node --inspect-brk node_modules/.bin/jest ./tests --runInBand",
         "test": "jest --verbose ./tests"
