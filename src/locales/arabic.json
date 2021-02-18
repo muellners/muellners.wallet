@@ -5,14 +5,14 @@
     "address": "العنوان",
     "add_pk": "أضف المفتاح الخاص",
     "home": {
-        "desc": "Muellners Wallet هي محفظة بسيطة وآمنة بدون وصاية لحفظ أصول Muellners.",
+        "desc": "Finscale Wallet هي محفظة بسيطة وآمنة بدون وصاية لحفظ أصول Muellners.",
         "access": {
             "title": "مرحبًا بعودتك!",
             "desc": "يمكنك 'الوصول' إلي محفظة Muellners الخاص بك هنا.",
             "submit": "الوصول للمحفظة"
         },
         "create": {
-            "title": "هل أنت جديد على Muellners Wallet؟",
+            "title": "هل أنت جديد على Finscale Wallet؟",
             "desc": "'أنشىء' محفظة جديدة من أجل إرسال وإستقبال و تبادل أصول Muellners.",
             "submit": "أنشىء محفظة جديدة"
         }
@@ -58,7 +58,7 @@
         }
     },
     "create": {
-        "generate": "قم بإنشاء عبارة مفتاحية جديدة لإعداد Muellners Wallet.",
+        "generate": "قم بإنشاء عبارة مفتاحية جديدة لإعداد Finscale Wallet.",
         "but_have": "لديك محفظة بالفعل؟",
         "submit": "توليد عبارة رئيسية",
         "cancel": "إلغاء",

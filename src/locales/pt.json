@@ -5,14 +5,14 @@
     "address": "Endereço",
     "add_pk": "Adicionar Private Key",
     "home": {
-        "desc": "A Muellners Wallet é uma carteira simples, segura e sem custódia para armazenar os ativos do Muellners.",
+        "desc": "A Finscale Wallet é uma carteira simples, segura e sem custódia para armazenar os ativos do Muellners.",
         "access": {
             "title": "Bem Vindo de Volta!",
-            "desc": "'Acesse' sua Muellners wallet existente aqui.",
+            "desc": "'Acesse' sua Finscale Wallet existente aqui.",
             "submit": "Acessar a Wallet"
         },
         "create": {
-            "title": "Você é novo na Muellners Wallet?",
+            "title": "Você é novo na Finscale Wallet?",
             "desc": "'Criar' uma nova wallet para enviar, receber e trocar os ativos do Muellners.",
             "submit": "Criar Nova Wallet"
         }
@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Gerar uma nova frase-chave para configurar sua Muellners Wallet.",
+        "generate": "Gerar uma nova frase-chave para configurar sua Finscale Wallet.",
         "but_have": "Já tem uma wallet?",
         "submit": "Gerar Frase-Chave",
         "cancel": "Cancelar",
         "mnemonic_title": "Esta é sua frase-chave.",
-        "mnemonic_desc": "Use estas 24 palavras em ordem sequencial para recuperar sua Muellners Wallet",
+        "mnemonic_desc": "Use estas 24 palavras em ordem sequencial para recuperar sua Finscale Wallet",
         "attention": "Atenção!",
-        "warning": "Armazene esta frase-chave em um local seguro. Qualquer pessoa com esta frase-chave pode acessar sua Muellners Wallet. As frases-chave perdidas não podem ser recuperadas.",
+        "warning": "Armazene esta frase-chave em um local seguro. Qualquer pessoa com esta frase-chave pode acessar sua Finscale Wallet. As frases-chave perdidas não podem ser recuperadas.",
         "confirm": "Eu anotei a minha frase-chave em um local seguro.",
         "regenerate": "Recriado",
         "success_title": "Parabéns!",
-        "success_desc": "É hora de acessar sua Muellners Wallet.",
+        "success_desc": "É hora de acessar sua Finscale Wallet.",
         "success_submit": "Acessar Wallet",
         "verify": "Verificar",
         "verifytitle": "Verificar Mnemônico",
@@ -101,7 +101,7 @@
             "collectibles": "Colecionáveis"
         },
         "address": {
-            "derived": "Derivado do Endereço da Muellners Wallet",
+            "derived": "Derivado do Endereço da Finscale Wallet",
             "desc": "Este é o seu endereço para receber fundos. Seu endereço mudará após cada depósito."
         }
     },
