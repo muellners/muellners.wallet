@@ -1,6 +1,6 @@
-# Muellners (AVAX) Wallet
+# Muellners Wallet
 
-This is the frontend Vue.js application for the Muellners (AVAX) Wallet.
+This is the frontend Vue.js application for the Muellners Wallet.
 
 ## Prerequisites
 
@@ -94,7 +94,7 @@ Saved into local storage as a 2 letter code.
 
 # Dependencies
 
-##### Muellners Node (https://github.com/ava-labs/avalanchego)
+##### Avalanche Node (https://github.com/ava-labs/avalanchego)
 
 To get utxos and to send transactions.
 
@@ -110,10 +110,10 @@ By default, there are two network options to connect to: `Mainnet` and `Fuji`.
 
 ##### Mainnet
 
--   Muellners API: `https://api.avax.network:443`
+-   Avalanche API: `https://api.avax.network:443`
 -   Explorer API: `https://explorerapi.avax.network`
 
 ##### Fuji (Testnet)
 
--   Muellners API: `https://api.avax-test.network:443`
+-   Avalanche API: `https://api.avax-test.network:443`
 -   Explorer API: `https://explorerapi.avax-test.network`
