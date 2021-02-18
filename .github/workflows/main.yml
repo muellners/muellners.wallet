@@ -38,7 +38,7 @@ jobs:
               run: yarn test
               
             - name: deploy
-            - run: sh deploy.sh
+              run: sh deploy.sh
 
             - name: cypress-run
               uses: cypress-io/github-action@v2
