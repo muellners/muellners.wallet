@@ -1,7 +1,7 @@
 <template>
     <p>
         By using this application you agree to the
-        <a href="/ToS.pdf" target="_blank">Terms of Use</a>
+        <a href="https://docs.muellners.info/" target="_blank">Terms of Use</a>
         .
     </p>
 </template>

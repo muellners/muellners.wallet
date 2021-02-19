@@ -3,7 +3,7 @@
         <div class="stick">
             <div class="brand">
                 <img v-if="$root.theme === 'day'" src="@/assets/finscale.png" />
-                <img v-else src="@/assets/wallet_logo_dark.svg" />
+                <img v-else src="@/assets/finscale.png" />
             </div>
             <div class="links">
                 <router-link to="/wallet">
