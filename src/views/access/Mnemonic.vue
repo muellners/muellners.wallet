@@ -46,7 +46,7 @@ export default class Mnemonic extends Vue {
     err: string = ''
 
     errCheck() {
-        let phrase = this.phrase
+        let phrase = this.phrase.toLowerCase()
         let words = phrase.split(' ')
 
         // not a valid key phrase
