@@ -7,7 +7,7 @@ This is the frontend Vue.js application for the Finscale Wallet.
 -   Yarn (https://classic.yarnpkg.com/en/docs/install/)
 -   Recent version of npm (6.13.4)
 -   Node v12.14.1
--   Gecko, Muellners client in Golang (https://github.com/ava-labs/gecko)
+-   Gecko, Avalanche client in Golang (https://github.com/ava-labs/gecko)
 
 ## Installation
 
@@ -17,7 +17,7 @@ This is the frontend Vue.js application for the Finscale Wallet.
 
 ## Running The Project
 
-In order for the wallet to work, it needs the Muellners network to operate on. By default the wallet will connect to the Muellners test network.
+In order for the wallet to work, it needs the Finscale network to operate on. By default the wallet will connect to the Finscale test network.
 
 1. If you want to connect to a local network, make sure you have installed and able to run a Gecko node properly.
 2. Run the project with hot reloading `yarn serve`
@@ -38,13 +38,13 @@ When you go to the website on your browser, you might get a warning saying
 
 ## Changing the Network
 
-By default the wallet will connect to the Muellners test network. You can change to another network by clicking the button labeled `TestNet` on the navigation bar and selecting another network, or add a custom network.
+By default the wallet will connect to the Finscale test network. You can change to another network by clicking the button labeled `TestNet` on the navigation bar and selecting another network, or add a custom network.
 
 ## Explorer API
 
-# The wallet uses the Muellners Explorer API to display wallet transaction history.
+# The wallet uses the Finscale Explorer API to display wallet transaction history.
 
-The wallet uses the Muellners Explorer API to display wallet transaction history.
+The wallet uses the Finscale Explorer API to display wallet transaction history.
 
 WARNING: This history might be out of order and incomplete.
 
@@ -104,7 +104,7 @@ To check if an address was used before, and to get activity history.
 
 # Default Connections
 
-The wallet needs to connect to an Muellners node, and an explorer node to operate properly.
+The wallet needs to connect to an Finscale node, and an explorer node to operate properly.
 
 By default, there are two network options to connect to: `Mainnet` and `Fuji`.
 
