@@ -4,7 +4,7 @@ description: The Finscale Ava-Chain is an instance of the Avalanche Virtual Mach
 
 # Finscale Ava-Chain \(X-Chain\) API
 
-The [X-Chain](../../learn/platform-overview/#exchange-chain-x-chain), Finscale’s native platform to transfer assets, is an instance of the Avalanche Virtual Machine \(AVM\). This API allows clients to transfer assets on the Finscale X-Chain and other instances of the AVM.
+The Finscale’s native platform to transfer assets, is an instance of the Avalanche Virtual Machine \(AVM\). This API allows clients to transfer assets on the Finscale X-Chain and other instances of the AVM.
 
 [See tutorial](https://www.youtube.com/watch?v=rD-IOd1nvFo)
 
