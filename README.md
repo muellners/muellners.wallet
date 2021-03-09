@@ -40,8 +40,6 @@ When you go to the website on your browser, you might get a warning saying
 
 By default the wallet will connect to the Finscale test network. You can change to another network by clicking the button labeled `TestNet` on the navigation bar and selecting another network, or add a custom network.
 
-## Explorer API
-
 # Finscale Ava-Chain \(X-Chain\) API
 
 The Finscale’s native platform to transfer assets, is an instance of the Avalanche Virtual Machine \(AVM\). This API allows clients to transfer assets on the Finscale X-Chain and other instances of the AVM.
