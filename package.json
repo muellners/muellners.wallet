@@ -59,7 +59,7 @@
         "jdenticon": "2.2.0",
         "luxon": "1.25.0",
         "moment": "2.27.0",
-        "morgan": "1.9.1",
+        "morgan": "1.10.0",
         "print-js": "1.0.63",
         "punycode": "2.1.1",
         "qr-scanner": "1.1.1",
