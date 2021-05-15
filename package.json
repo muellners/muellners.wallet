@@ -57,7 +57,7 @@
         "hdkey": "2.0.1",
         "helmet": "3.23.3",
         "jdenticon": "2.2.0",
-        "luxon": "1.25.0",
+        "luxon": "1.27.0",
         "moment": "2.27.0",
         "morgan": "1.9.1",
         "print-js": "1.0.63",
